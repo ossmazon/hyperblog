@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f35e:
+# Hyperblog
 
 ------------
 

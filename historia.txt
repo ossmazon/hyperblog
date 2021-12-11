@@ -1,11 +1,8 @@
 Esto es una historiaaaaaaaaaaaaa
 de su vida
 y obra maestra
-<<<<<<< HEAD
 Master 1
 Master 2
-=======
 Experiemnto 1
 Experimento 2
 Master 1
->>>>>>> ec31b89 (Experiemnto 2)
